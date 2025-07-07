@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Yury Karaliuk](https://up.htmlacademy.ru/nodejs-2-individual/2/user/22214).
-* Наставник: `Неизвестно`.
+* Наставник: `Владислав Поклонский`.
 
 ---
 
