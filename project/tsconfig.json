@@ -17,6 +17,9 @@
     },
     {
       "path": "./apps/file-server"
+    },
+    {
+      "path": "./apps/api-gateway"
     }
   ]
 }
