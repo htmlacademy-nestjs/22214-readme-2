@@ -11,6 +11,9 @@
     },
     {
       "path": "./apps/feed"
+    },
+    {
+      "path": "./apps/notification"
     }
   ]
 }
